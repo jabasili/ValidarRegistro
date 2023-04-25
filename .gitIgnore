@@ -1,0 +1,7 @@
+/node_modules/
+../downloads
+../videos
+../screenshots
+package-lock.json
+cypress/screenshots/Registro.spec.js/ANTES-de-enviar.png
+cypress/screenshots/Registro.spec.js/DEPOIS-de-enviar.png
